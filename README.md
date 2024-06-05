@@ -8,5 +8,8 @@ Key Operations and Models:
 - Weather Condition Impact
 - Random Forest Regressor Model
 - Low Visibility Analysis
+- Seasonal Trends Analysis
+- Weekday vs. Weekend Comparison
+- Extreme Weather Conditions
 - Correlation Analysis
 - Recommendations for Optimization
